@@ -16,7 +16,7 @@ st.markdown(
         .block-container {
             padding: 2rem 3rem;  /* Add some padding */
             border-radius: 15px;  /* Rounded corners */
-            background-color: #f0f0f0;  /* Soft background color */
+            background-color:rgba(37, 150, 206, 0.33);  /* Soft background color */
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);  /* Subtle shadow for depth */
         }
             /* Title and header styles */
